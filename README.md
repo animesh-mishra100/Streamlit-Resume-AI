@@ -83,22 +83,6 @@ This app is deployed on an AWS EC2 instance running Ubuntu. To replicate:
 
 ---
 
-## 🧪 Sample Output
-
-📷 
-- Resume upload
-![alt text](<Screenshot 2025-06-07 024834.png>)
-- Match score
-![alt text](<Screenshot 2025-06-07 025042.png>)
-- Profile Analysis
-![alt text](<Screenshot 2025-06-07 025127.png>)
-- Skill Gap
-![alt text](<Screenshot 2025-06-07 025207.png>)
-- Recopmmendations
-![alt text](<Screenshot 2025-06-07 025235.png>)
-
----
-
 ## 📚 References
 
 1. [Gemini 2.0 Documentation](https://deepmind.google/technologies/gemini)  
